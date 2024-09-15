@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'PlusJakartaSans-Medium';
+    src: url('./font/PlusJakartaSans-Medium.otf') format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'PlusJakartaSans-Regular';
+    src: url('./font/PlusJakartaSans-Regular.otf') format('opentype');
+  }
+  
